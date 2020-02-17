@@ -1,2 +1,3 @@
 target/
 src/main/test-frontend/node_modules/
+src/main/test-frontend/build/

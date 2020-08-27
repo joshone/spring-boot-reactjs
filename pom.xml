@@ -65,8 +65,8 @@
 						</goals>
 						<phase>generate-resources</phase>
 						<configuration>
-							<nodeVersion>v13.0.1</nodeVersion>
-							<npmVersion>6.13.0</npmVersion>
+							<nodeVersion>v14.8.0</nodeVersion>
+							<npmVersion>6.14.7</npmVersion>
 						</configuration>
 					</execution>
 					
